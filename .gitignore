@@ -1,0 +1,7 @@
+*.dSYM
+.*.swp
+*.pcap
+*.opus
+*.raw
+has_opus_fec
+iterate_opus_fec
